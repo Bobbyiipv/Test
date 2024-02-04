@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:0,Rai 1 HD
-https://raiuno1-live.akamaized.net/hls/live/598308/raiuno1/raiuno1/playlist_ma.m3u8?hdnea=st=1707067025~exp=1707067175~acl=/*~hmac=a4cee4092d9b86b7524301806ff26a6dcfcf66a2b1d387f1cd14abc51de733c3
+https://raiuno1-live.akamaized.net/hls/live/598308/raiuno1/raiuno1/rai1_1200/exp=1707153426~acl=%2fhls%2flive%2f598308%2fraiuno1%2f*!%2fhls%2flive%2f598308-b%2fraiuno1%2f*!%2f*.key~data=hdntl~hmac=a49907652961bd8a0e856d9ae851af13c5e0b26f8b7e0a7cfd4b0d8004affd62/serve.key?aka_me_session_id=AAAAAAAAAAASGMFlAAAAAFSOIBX9IqN0qwWMBn%2fQVaCGQd9jAGSftQwAM7cw9BZX%2fz5+325cpCyewB0qESk0E15Ves31wMvI&aka_media_format_type=hls
